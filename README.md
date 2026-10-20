@@ -1,3 +1,8 @@
+# Student Information
+Name: Sumit
+Roll No:24EGJCS618
+
+
 # Advanced Java Projects
 
 This repository contains a collection of Advanced Java projects developed to practice Java programming, database connectivity, networking, GUI development, and web application development.
@@ -90,7 +95,7 @@ The purpose of this repository is to strengthen practical knowledge of Advanced 
 
 ## Author
 
-**Sumit Choudhary**
+**Sumit**
 
 B.Tech in Computer Science and Engineering  
 Global Institute of Technology, Jaipur
