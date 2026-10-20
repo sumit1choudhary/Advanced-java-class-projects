@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Student Login | Servlet Practical</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="card">
+    <p class="eyebrow">JAKARTA SERVLET · TOMCAT 11</p>
+    <h1>Student Login</h1>
+    <p class="muted">Sign in to open the protected student dashboard.</p>
+    <form action="login" method="post">
+      <label for="username">Username</label>
+      <input id="username" name="username" type="text" autocomplete="username" required>
+      <label for="password">Password</label>
+      <input id="password" name="password" type="password" autocomplete="current-password" required>
+      <button type="submit">Login</button>
+    </form>
+    <div class="hint"><strong>Demo credentials</strong><br>Username: <code>admin</code> · Password: <code>1234</code></div>
+    <div class="links"><a href="hello">Try HelloServlet</a><span>·</span><a href="student.html">Student form</a></div>
+  </main>
+</body>
+</html>
